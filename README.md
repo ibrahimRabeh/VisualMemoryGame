@@ -6,5 +6,5 @@ if you click on the right blocks you will get a point, if you click on a wrong
 block 3 times you will lose a a life. you have 3 lives. if you lose all of them
 you will lose the game. there is no ubber limit to the game, you can play as
 long as you want. the game will end when you lose all of your lives.
-have fun!
+have fun!!
 """
